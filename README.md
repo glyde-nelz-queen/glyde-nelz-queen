@@ -1,9 +1,15 @@
+```json 
+😍😍 Welcome Visitors 😍😍
+```
+ 
+#
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- <img alt="boba galaxyblob hangouts blob" title="boba galaxyblob hangouts blob" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515274/12955/boba_galaxyblob.png?1643515274" width="30"/> Hi, I’m @Glyza
+- <img alt="boba galaxyblob hangouts blob" title="boba galaxyblob hangouts blob" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515274/12955/boba_galaxyblob.png?1643515274" width="30"/> Hi, I’m **Glyza**
 - 👀 I’m interested in hardware & software ...
 - 🌱 I’m currently exploring ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me **bsit.3.ne.oronan.glyzacena@gmail.com**...
+- 💌 How to reach me **bsit.3.ne.oronan.glyzacena@gmail.com**...
+
 
 
 
