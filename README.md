@@ -8,9 +8,10 @@
 - 👀 I’m interested in **Database,**, **MySQL**, **Postman**, **XML**, **HTML**, **PHP**...
 - 🚀 I’m currently exploring ...
 - 💞️ I’m looking to collaborate on everything that I am interested with..
-- 💌 How to reach me <a href="https://img.shields.io/badge/bsit.3.ne.oronan.glyzacena@gmail.com">  <img align="center" src="https://img.shields.io/badge/bsit.3.ne.oronan.glyzacena@gmail.com-4974a5?style=flat&logo=gmail&color=4974a5"></a>
+- 💌 How to reach me <a href="mailto:bsit.3.ne.oronan.glyzacena@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-bsit.3.ne.oronan.glyzacena@gmail.com-blue?style=flat&logo=gmail&color=4974a5"></a>
 
 
+ 
 
 
 ### My Github Contribution
