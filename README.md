@@ -39,7 +39,7 @@
 <details>
     <summary>&#128681 <b>Github Stats</b></summary><br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=glyde-nelz-queen&show_icons=true&locale=en&theme=highcontrast)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=glyde-nelz-queen&show_icons=true&locale=en&theme=merko)
 
 </details>
 
